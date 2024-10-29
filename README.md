@@ -18,17 +18,17 @@ A simple calculator application with a graphical user interface built using Pyth
 
 ## Installation
 
-1. Clone the repository
+1. **Clone the repository:**
    ```sh
    git clone https://github.com/your-username/python-calculator.git
    ```
 
-2. Navigate to the project directory
+2. **Navigate to the project directory:**
    ```sh
    cd basic-calculator
    ```
 
-3. Run the calculator
+3. **Run the calculator:**
    ```
    python calculator.py
    ```
